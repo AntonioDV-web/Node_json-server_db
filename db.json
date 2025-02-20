@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Antonio",
+      "apellido": "Milian",
+      "materias": [
+        {
+          "nombre": "NodeJS desde cero"
+        },
+        {
+          "nombre": "Express desde cero"
+        },
+        {
+          "nombre": "MongoDB desde cero"
+        }
+      ],
+      "id": "26f3"
+    },
+    {
+      "id": "21e2",
+      "nombre": "Roxana",
+      "apellido": "Paiz",
+      "materias": [
+        {
+          "nombre": "Cocina"
+        },
+        {
+          "nombre": "Repostería"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Lionel",
+      "apellido": "Messi",
+      "promedio": 10,
+      "id": "b389"
+    },
+    {
+      "nombre": "Lamine",
+      "apellido": "Yamal",
+      "promedio": 8,
+      "id": "4ffd"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS desde cero",
+      "duracion": 7,
+      "dificultad": "intermedio",
+      "id": "de5d"
+    },
+    {
+      "nombre": "Express desde cero",
+      "duracion": 3,
+      "dificultad": "intermedio",
+      "id": "7eba"
+    },
+    {
+      "nombre": "MongoDB desde cero",
+      "duracion": 4,
+      "dificultad": "alta",
+      "id": "e145"
+    }
+  ]
+}
